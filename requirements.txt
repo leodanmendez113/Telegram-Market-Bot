@@ -1,1 +1,5 @@
 python-telegram-bot==13.7
+requests==2.26.0
+Flask==2.1.0
+SQLAlchemy==1.4.23
+# Agrega más bibliotecas según sea necesario
